@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Phone XL",
+    "price": 799
+  },
+  {
+    "type": "Phone Mini",
+    "price": 699
+  },
+  {
+    "type": "Phone Standard",
+    "price": 299
+  }
+]
